@@ -2,7 +2,17 @@
 export default defineNuxtConfig({
   css: ["~/assets/scss/style.scss"],
   compatibilityDate: "2024-04-03",
-  modules: ["nuxt-swiper", "@nuxt/image", "@nuxtjs/google-fonts", "@vueuse/nuxt", "@oku-ui/motion-nuxt", "nuxt-aos", "floating-vue/nuxt"],
+  modules: [
+    "nuxt-swiper",
+    "@nuxt/image",
+    "@nuxtjs/google-fonts",
+    "@vueuse/nuxt",
+    "@oku-ui/motion-nuxt",
+    "nuxt-aos",
+    "floating-vue/nuxt",
+    "@nuxthq/studio",
+    "@nuxt/content",
+  ],
   swiper: {
     prefix: "Swiper",
     styleLang: "css",
