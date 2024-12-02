@@ -27,6 +27,7 @@
     "nuxt": "^3.12.3",
     "nuxt-aos": "^1.2.5",
     "nuxt-bootstrap-icons": "^2.0.2",
+    "nuxt-medusa": "^1.0.0",
     "nuxt-swiper": "^1.2.2",
     "vue": "latest",
     "vue-animate-height": "^1.1.2",

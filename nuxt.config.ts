@@ -12,6 +12,8 @@ export default defineNuxtConfig({
     "floating-vue/nuxt",
     "@nuxthq/studio",
     "@nuxt/content",
+    "nuxt-medusa",
+    "@nuxtjs/axios",
   ],
   swiper: {
     prefix: "Swiper",
