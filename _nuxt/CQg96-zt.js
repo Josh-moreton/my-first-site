@@ -1,0 +1,1 @@
+import{c as o}from"./NQLob8fj.js";import{F as r,H as n,L as t}from"./Dy38UYFi.js";const c={};function s(e,a){return r(),n("code",null,[t(e.$slots,"default")])}const d=o(c,[["render",s]]);export{d as default};

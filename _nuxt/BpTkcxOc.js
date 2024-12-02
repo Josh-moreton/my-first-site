@@ -1,0 +1,1 @@
+import{b as i,Z as l}from"./Dy38UYFi.js";function c(e){const t=i(null),{rotationAngle:o=8}=e;return l(()=>{if(t.value){const n=t.value,r=n.innerText;n.innerHTML=r.split("").map((a,s)=>`<span style="transform:rotate(${s*o}deg)">${a}</span>`).join("")}}),t}export{c as u};

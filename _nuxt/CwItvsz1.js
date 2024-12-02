@@ -1,0 +1,1 @@
+import{c as o}from"./NQLob8fj.js";import{F as r,H as t,L as c}from"./Dy38UYFi.js";const s={};function n(e,l){return r(),t("blockquote",null,[c(e.$slots,"default")])}const u=o(s,[["render",n]]);export{u as default};
